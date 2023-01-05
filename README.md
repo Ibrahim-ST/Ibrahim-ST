@@ -33,9 +33,8 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ibrahim-st&show_icons=true&locale=en" alt="ibrahim-st" /></p> <br><br><br><br><br><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahim-st&show_icons=true&locale=en&layout=compact" alt="ibrahim-st" /></p>
-<!-- <br> <br> <br> <br> <br> <br> -->
-
-<div><hr>
+<br> <br> <br> <br><br> <br><br>
+<div>
 
 <p align="left"><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/ibrahimSddq"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/ibrahimSddq" /></a></p>
 </div>
