@@ -15,7 +15,7 @@
 
 - 📫 Want to reach me?  **ibrahim.siddiqueee@gmail.com**
 
-- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/15mS94G-26LI7ReKp4JM2PWOSIgarfLbW/view?usp=sharing](https://drive.google.com/file/d/15mS94G-26LI7ReKp4JM2PWOSIgarfLbW/view?usp=sharing">RESUME</a> 
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/15mS94G-26LI7ReKp4JM2PWOSIgarfLbW/view?usp=sharing](https://drive.google.com/file/d/15mS94G-26LI7ReKp4JM2PWOSIgarfLbW/view?usp=sharing">**RESUME**</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,6 +33,9 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ibrahim-st&show_icons=true&locale=en" alt="ibrahim-st" /></p> <br><br><br><br><br><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahim-st&show_icons=true&locale=en&layout=compact" alt="ibrahim-st" /></p>
-<br> <br> <br> <br> <br> <br>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/ibrahimSddq"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/ibrahimSddq" /></a></p>
+<!-- <br> <br> <br> <br> <br> <br> -->
+
+<div><hr>
+
+<p align="left"><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/ibrahimSddq"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/ibrahimSddq" /></a></p>
+</div>
