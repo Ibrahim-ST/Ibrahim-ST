@@ -1,6 +1,8 @@
 <!-- ![MasterHead](https://miro.medium.com/max/720/0*7Q3yvSIv_t0ioJ-Z.gif)  -->
+
+
 <h1 align="center">Hi 👋, I'm Md. Ibrahim Siddiquee 📌</h1>
-<img  alt="Coding" src="banner.png" >
+<img align="center" width="100%" src="https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif">  
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" >
