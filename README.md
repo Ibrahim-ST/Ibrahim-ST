@@ -15,9 +15,11 @@
 
 - 💬 Ask me about **React**
 
+- ✅  Have a look at my<a href="http://ibrahim-st.github.io/"> **Projects: http://ibrahim-st.github.io/** </a>
+
 - 📫 Want to reach me?  **ibrahim.siddiqueee@gmail.com**
 
-- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/15mS94G-26LI7ReKp4JM2PWOSIgarfLbW/view?usp=sharing](https://drive.google.com/file/d/15mS94G-26LI7ReKp4JM2PWOSIgarfLbW/view?usp=sharing">**RESUME**</a> 
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1PeXPaTbo0X3UtfmdhcCQd8pPudZR_HhL/view?usp=sharing">**RESUME**</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
