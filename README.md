@@ -4,22 +4,22 @@
 <h1 align="center">Hi 👋, I'm Md. Ibrahim Siddiquee 📌</h1>
 <img align="center" width="100%" src="https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif">  
 
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Front End Developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahim-st&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahim-st" /> </p>
 
 - 🔭 I’m currently working on **Front End Development**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN Stack Development**
 
 - 💬 Ask me about **React**
 
-- ✅  Have a look at my<a href="http://ibrahim-st.github.io/"> **Projects: http://ibrahim-st.github.io/** </a>
+- ✅  Have a look at my<a href="https://ibrahim-siddiquee.netlify.app/"> **Projects: https://ibrahim-siddiquee.netlify.app/** </a>
 
 - 📫 Want to reach me?  **ibrahim.siddiqueee@gmail.com**
 
-- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1PeXPaTbo0X3UtfmdhcCQd8pPudZR_HhL/view?usp=sharing">**RESUME**</a> 
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/173mYAiK9O7hOZL3PeYlkz_QrzW6IsYzu/view?usp=sharing">**RESUME**</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
