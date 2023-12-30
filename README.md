@@ -19,7 +19,7 @@
 
 - 📫 Want to reach me?  **ibrahim.siddiqueee@gmail.com**
 
-- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/173mYAiK9O7hOZL3PeYlkz_QrzW6IsYzu/view?usp=sharing">**RESUME**</a> 
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1x7Hd959GdKbwMPj3r6YUcOxx_ue_DGAR/view?usp=sharing">**RESUME**</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
